@@ -6,7 +6,7 @@
 JAVA & Spring Boot를 사용하여 서버 구현부터 배포까지의 학습 과정을 따라간다.
 
 1. Django를 학습하며 익힌 네트워크, 데이터베이스, API, 도메인, 클라우드 등 서버 개발에 필요한 이론과 개념을 복습한다.
-2. Spring Boot, MySQL, JPA, Linux, AWS, Gradle 등 서버 개발에 필수적인 기술들을 학습한다. 서버를 구성하는 방법을 학습한다.
+2. Spring Boot, MySQL, JPA, Linux, AWS, Gradle 등 서버 개발에 필수적인 기술들을 학습한다.
 
 
 ## 진도표
